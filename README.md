@@ -50,6 +50,7 @@ void bucketSort(float arr[], int n) {
 **5 Пример работы**
 
 Программа реализует два вида сортировки: с заданным k и с вычисленным по формуле: k = sqrt(n), а также работает с типами данных int, long, float, double, long double.
+
 <img width="578" height="561" alt="image" src="https://github.com/user-attachments/assets/4ebb9d31-1075-4611-9f87-ab2698ce013a" />
 <img width="968" height="825" alt="image" src="https://github.com/user-attachments/assets/fd7853db-5b83-4009-9276-7e7b0495d334" />
 
